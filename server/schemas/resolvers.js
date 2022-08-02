@@ -38,9 +38,9 @@ const resolvers = {
       return { token, user };
     },
 
-    saveBook: async (parent, args, context) => {},
+    // saveBook: async (parent, args, context) => {},
 
-    removeBook: async (parent, args, context) => {},
+    // removeBook: async (parent, args, context) => {},
   },
 };
 
